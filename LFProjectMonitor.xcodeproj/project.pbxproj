@@ -169,15 +169,15 @@
 			isa = PBXGroup;
 			children = (
 				C7B3A119225AF6840027FFF4 /* MonitorBase.h */,
-				C7B3A11A225AF6840027FFF4 /* MonitorUIStutter.m */,
-				C7B3A11B225AF6840027FFF4 /* MonitorUIDestroy.m */,
-				C7B3A11C225AF6840027FFF4 /* MonitorUITouch.m */,
-				C7B3A11D225AF6840027FFF4 /* MonitorMethodTimeCost.m */,
 				C7B3A11E225AF6840027FFF4 /* MonitorBase.m */,
 				C7B3A11F225AF6840027FFF4 /* MonitorUITouch.h */,
+				C7B3A11C225AF6840027FFF4 /* MonitorUITouch.m */,
 				C7B3A120225AF6840027FFF4 /* MonitorUIDestroy.h */,
+				C7B3A11B225AF6840027FFF4 /* MonitorUIDestroy.m */,
 				C7B3A121225AF6840027FFF4 /* MonitorUIStutter.h */,
+				C7B3A11A225AF6840027FFF4 /* MonitorUIStutter.m */,
 				C7B3A122225AF6840027FFF4 /* MonitorMethodTimeCost.h */,
+				C7B3A11D225AF6840027FFF4 /* MonitorMethodTimeCost.m */,
 			);
 			path = ProjectMonitorExtension;
 			sourceTree = "<group>";
