@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'LFProjectMonitor'
-s.version      = '0.0.1'
+s.version      = '1.0.0'
 s.summary      = 'Monitor Project'
 s.homepage     = 'https://github.com/lincf0912/LFProjectMonitor'
 s.license      = 'MIT'
