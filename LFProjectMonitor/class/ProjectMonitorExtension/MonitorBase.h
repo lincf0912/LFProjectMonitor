@@ -8,7 +8,6 @@
 
 #import <Foundation/Foundation.h>
 #import "ProjectMonitorProtocol.h"
-#import "ProjectMonitorLogger.h"
 
 @interface MonitorBase : NSObject <ProjectMonitorProtocol>
 

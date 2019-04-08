@@ -9,6 +9,7 @@
 #import "MonitorUIDestroy.h"
 #import <objc/runtime.h>
 #import "ProjectMonitorHook.h"
+#import "ProjectMonitorLogger.h"
 
 static const char * MonitorUIDisplayKey = "MonitorUIDisplayKey";
 static const char * MonitorUIDestroyKey = "MonitorUIDestroyKey";

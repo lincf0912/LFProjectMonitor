@@ -7,6 +7,7 @@
 //
 
 #import "MonitorUIStutter.h"
+#import "ProjectMonitorLogger.h"
 
 @interface MonitorUIStutter ()
 {

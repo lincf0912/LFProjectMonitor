@@ -8,6 +8,7 @@
 
 #import "MonitorUITouch.h"
 #import "ProjectMonitorHook.h"
+#import "ProjectMonitorLogger.h"
 
 @implementation MonitorUITouch
 
